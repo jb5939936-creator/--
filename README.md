@@ -1,2 +1,1 @@
-
-<img width="796" height="776" alt="image" src="https://github.com/user-attachments/assets/d1663ae4-d32c-4697-9a0d-8c4d1b4479be" />
+file:///C:/Users/%EC%A0%84%EB%B3%91%ED%9D%A1/AppData/Local/Temp/_AZTMP18_/index.html
